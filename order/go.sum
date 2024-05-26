@@ -13,6 +13,10 @@ github.com/mic-x01/grpc-microservices-in-go-proto/golang/order v1.0.0 h1:kxd6Kml
 github.com/mic-x01/grpc-microservices-in-go-proto/golang/order v1.0.0/go.mod h1:YvJ8IW6DwgdhQGVRHFSQQaaK1MmClKnKZPQ0f8XalE8=
 github.com/mic-x01/grpc-microservices-in-go-proto/golang/order v1.0.1 h1:5d8d5nNdOzKN9QV7Q/fCK6orIXXYewnT8eXG+bMW4X0=
 github.com/mic-x01/grpc-microservices-in-go-proto/golang/order v1.0.1/go.mod h1:YvJ8IW6DwgdhQGVRHFSQQaaK1MmClKnKZPQ0f8XalE8=
+github.com/mic-x01/grpc-microservices-in-go-proto/golang/payment v1.0.1 h1:BYcMFukGzbgFliZ1DiwGkbcKcIp11czEj09FWCfUeck=
+github.com/mic-x01/grpc-microservices-in-go-proto/golang/payment v1.0.1/go.mod h1:SmHpbvxO/Tvj/zd5yxikVGyw56acTf1pe/vBVKxuN00=
+github.com/mic-x01/grpc-microservices-in-go-proto/golang/payment v1.0.2 h1:48pnSIi++XMwUXCzXfzY/+uighb7yMknyEg57NW5ZQ8=
+github.com/mic-x01/grpc-microservices-in-go-proto/golang/payment v1.0.2/go.mod h1:SmHpbvxO/Tvj/zd5yxikVGyw56acTf1pe/vBVKxuN00=
 golang.org/x/net v0.25.0 h1:d/OCCoBEUq33pjydKrGQhw7IlUPI2Oylr+8qLx49kac=
 golang.org/x/net v0.25.0/go.mod h1:JkAGAh7GEvH74S6FOH42FLoXpXbE/aqXSrIQjXgsiwM=
 golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=
